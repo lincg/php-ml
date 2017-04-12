@@ -15,6 +15,7 @@ Fresh approach to Machine Learning in PHP. Algorithms, Cross Validation, Neural 
 PHP-ML requires PHP >= 7.0.
 
 Simple example of classification:
+
 ```php
 use Phpml\Classification\KNearestNeighbors;
 
